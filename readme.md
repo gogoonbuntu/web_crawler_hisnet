@@ -8,7 +8,7 @@ title: 히즈넷 원클릭 민원 자동검색기!
 
 자동으로 들어가서 해당사항이 있으면 알려주도록 하는 프로그램을 만들어본다.
 
-# 개발일지 :
+## 개발일지 :
 ### 4.17 금요일 - NoSuchElementException
   frameset이 있다는 부분을 잘 몰랐다.
   아무리 find_element_by_css_selector를 써도 분명히 있는데 잡아오질 못해서 보니,
